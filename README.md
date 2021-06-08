@@ -1,6 +1,6 @@
 # React Admin
 
-This is a minimal Admin Panel template built with [https://reactjs.org/docs/create-a-new-react-app.html](create-react-app) and [https://material-ui.com/](Material-UI) that can easily be interfaced with your next React project.
+This is a minimal Admin Panel template built with [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html) and [Material-UI](https://material-ui.com/) that can easily be interfaced with your next React project.
 <br /><br />
 
 ## Directory Structure
