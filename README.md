@@ -1,11 +1,9 @@
 # React Admin
 
-This is a minimal Admin Panel template that can easily be interfaced with your next React project.
+This is a minimal Admin Panel template built with [https://reactjs.org/docs/create-a-new-react-app.html](create-react-app) and [https://material-ui.com/](Material-UI) that can easily be interfaced with your next React project.
 <br /><br />
 
 ## Directory Structure
-
-<hr />
 
 ```
 src
@@ -32,11 +30,13 @@ src
 │       ├── data.js
 │       ├── functions.js
 │       └── index.js
+|
 ├── pages
 │   └── Forms.js
 │   └── Home.js
 │   └── Login.js
 │   └── Products.js
+|
 ├── App.css
 ├── App.js
 ├── index.js
@@ -46,8 +46,6 @@ src
 ```
 
 ## To run this on your machine
-
-<hr />
 
 1. Clone the repo
 2. Open the terminal and run the command `npm start`
